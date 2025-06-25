@@ -20,7 +20,7 @@ Welcome to **Restaura**, the premium landing page for a ⭐️⭐️⭐️⭐️
 ![Screenshot from 2025-04-06 01-58-33](https://github.com/user-attachments/assets/39ca77c7-2e91-44c9-9723-784108aa7d80)
 
 
-Check out the live demo [here](https://four-seasons-restaura.vercel.app).
+Check out the live demo [here](https://restaura-foodz.vercel.app).
 
 ## Technologies Used
 - **React**: A JavaScript library for building user interfaces.
@@ -32,12 +32,12 @@ Check out the live demo [here](https://four-seasons-restaura.vercel.app).
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Utkarsh-K09984/Restaura.git
+    git clone https://github.com/Utkarsh-K09984/Restaura-foodz.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd Restaura
+    cd Restaura-foodz
     ```
 
 3. Install the dependencies:
