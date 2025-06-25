@@ -55,7 +55,7 @@ Check out the live demo [here](https://restaura-foodz.vercel.app).
 
 ---
 
-Built with ❤️ by [Utkarh-Kapoor](https://github.com/Utkarsh-K09984).
+Built with ❤️ by [Utkarsh-Kapoor](https://github.com/Utkarsh-K09984).
 ```
 
 Feel free to customize this README further to fit your needs!
